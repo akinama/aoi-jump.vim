@@ -10,8 +10,8 @@
 
 " conf
 " smarty template directory name
-let s:template_dir_name = 'tpl'
-let s:aciton_dir_name   = 'act'
+let s:template_dir_name = 'template'
+let s:aciton_dir_name   = 'app/action'
 
 " private function
 " {{{ _init()
